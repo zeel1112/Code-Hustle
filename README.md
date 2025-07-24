@@ -1,5 +1,5 @@
 # Code Hustle 🚀
-
+Visit our deployed application: [Code Hustle](https://codehustleapp.netlify.app/)")
 A modern competitive programming platform built for developers who demand excellence. Code Hustle provides a cutting-edge environment for solving algorithmic challenges, competing with developers worldwide, and mastering competitive programming skills.
 
 ![Code Hustle](https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
